@@ -1,1040 +1,739 @@
 [
   {
-    "hiragana": "あおい",
-    "katakana": "アオイ",
-    "name": "aoi",
-    "replace": [
-          "双葉碧",
-          "アオイ (編入生)"
-        ]
-  },
-  {
-    "pronounce": "あかり",
-    "word": "アカリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "風宮あかり"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "あきの",
-    "word": "アキノ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "藤堂秋乃"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "あやね",
-    "word": "アヤネ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "北条綾音",
-          "アヤネ (クリスマス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "あゆみ",
-    "word": "アユミ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "石橋あゆみ",
-          "アユミ (ワンダー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ありさ",
-    "word": "アリサ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "あん",
-    "word": "アン",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "あんな",
-    "word": "アンナ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "柊杏奈",
-          "アンネローゼ・フォン・シュテッヒパルム",
-          "アンナ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "いお",
-    "word": "イオ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "支倉伊緒",
-          "イオ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "いのり",
-    "word": "イノリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "一ノ瀬祈梨"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "いりや",
-    "word": "イリヤ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "イリヤ・オーンスタイン",
-          "イリヤ (クリスマス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "うづき",
-    "word": "ウヅキ (デレマス)",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "島村卯月"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "えみりあ",
-    "word": "エミリア",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "えりこ",
-    "word": "エリコ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "倉石恵理子",
-          "エリコ (バレンタイン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "かおり",
-    "word": "カオリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "喜屋武香織",
-          "カオリ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "かすみ",
-    "word": "カスミ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "霧原かすみ",
-          "カスミ (マジカル)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "かや",
-    "word": "カヤ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "鬼道嘉夜"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "きゃる",
-    "word": "キャル",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "百地希留耶",
-          "キャル (サマー)",
-          "キャル (ニューイヤー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "きょうか",
-    "word": "キョウカ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "氷川鏡華",
-          "キョウカ (ハロウィン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "くうか",
-    "word": "クウカ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "遠見空花",
-          "クウカ (オーエド)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "くりすてぃーな",
-    "word": "クリスティーナ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "クリスティーナ・モーガン",
-          "クリスティーナ (クリスマス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "くるみ",
-    "word": "クルミ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "栗林くるみ",
-          "クルミ (クリスマス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "くろえ",
-    "word": "クロエ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "黒江花子"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "こっころ",
-    "word": "コッコロ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "棗こころ",
-          "コッコロ (サマー)",
-          "コッコロ (ニューイヤー)",
-          "コッコロ (プリンセス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "されん",
-    "word": "サレン",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "佐々木咲恋",
-          "サレン (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "じーた",
-    "word": "ジータ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "しおり",
-    "word": "シオリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "柏崎栞",
-          "シオリ (マジカル)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "しずる",
-    "word": "シズル",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "星野静流",
-          "シズル (バレンタイン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "しのぶ",
-    "word": "シノブ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "上喜しのぶ",
-          "シノブ (ハロウィン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "じゅん",
-    "word": "ジュン",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "白銀純"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "すずな",
-    "word": "スズナ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "美波鈴奈",
-          "スズナ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "すずめ",
-    "word": "スズメ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "天野すずめ",
-          "スズメ (サマー)",
-          "スズメ (ニューイヤー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "たまき",
-    "word": "タマキ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "宮坂たまき"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ちえる",
-    "word": "チエル",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "風間ちえる"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ちか",
-    "word": "チカ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "三角千歌",
-          "チカ (クリスマス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "つむぎ",
-    "word": "ツムギ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "繭宮つむぎ"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "とも",
-    "word": "トモ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "御久間智"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ななか",
-    "word": "ナナカ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "丹野七々香",
-          "ナナカ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "にのん",
-    "word": "ニノン",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "ニノン・ジュベール",
-          "ニノン (オーエド)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ねねか",
-    "word": "ネネカ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "現士実似々花"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "のぞみ",
-    "word": "ノゾミ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "桜井望",
-          "ノゾミ (クリスマス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "はつね",
-    "word": "ハツネ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "柏崎初音",
-          "ハツネ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ひより",
-    "word": "ヒヨリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "春咲ひより",
-          "ヒヨリ (ニューイヤー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ぺこりーぬ",
-    "word": "ペコリーヌ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "ユースティアナ・フォン・アストライア",
-          "ペコリーヌ (サマー)",
-          "ペコリーヌ (プリンセス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "まこと",
-    "word": "マコト",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "安芸真琴",
-          "マコト (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "まつり",
-    "word": "マツリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "織原茉莉"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "まひる",
-    "word": "マヒル",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "野戸まひる",
-          "マヒル (レンジャー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "まほ",
-    "word": "マホ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "姫宮真歩",
-          "マホ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みお",
-    "word": "ミオ (デレマス)",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "本田未央"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みさき",
-    "word": "ミサキ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "玉泉美咲",
-          "ミサキ (ハロウィン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みさと",
-    "word": "ミサト",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "愛川美里",
-          "ミサト (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みそぎ",
-    "word": "ミソギ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "穂高みそぎ",
-          "ミソギ (ハロウィン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みつき",
-    "word": "ミツキ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "宵ヶ浜深月"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みふゆ",
-    "word": "ミフユ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "大神美冬",
-          "ミフユ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みみ",
-    "word": "ミミ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "茜ミミ",
-          "ミミ (ハロウィン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "みやこ",
-    "word": "ミヤコ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "出雲宮子",
-          "ミヤコ (ハロウィン)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "むいみ",
-    "word": "ムイミ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "園上矛依未",
-          "ノウェム"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "もにか",
-    "word": "モニカ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "モニカ・ヴァイスヴィント"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ゆい",
-    "word": "ユイ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "草野優衣",
-          "ユイ (ニューイヤー)",
-          "ユイ (プリンセス)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ゆかり",
-    "word": "ユカリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "綾瀬ゆかり"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ゆき",
-    "word": "ユキ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "虹村雪"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "ユニ",
-    "word": "ゆに",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "真行寺由仁"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "より",
-    "word": "ヨリ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "風宮より"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "らむ",
-    "word": "ラム",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "りの",
-    "word": "リノ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "衣ノ咲璃乃"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "りま",
-    "word": "リマ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "りん",
-    "word": "リン",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "森近鈴",
-          "リン (レンジャー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "りん",
-    "word": "リン (デレマス)",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "渋谷凛"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "るぅ",
-    "word": "ルゥ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "るか",
-    "word": "ルカ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "大刀洗流夏",
-          "ルカ (サマー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "るな",
-    "word": "ルナ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
-  },
-  {
-    "pronounce": "れい",
-    "word": "レイ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false,
-        "replace": [
-          "士条怜",
-          "レイ (ニューイヤー)"
-        ]
-      }
-    ]
-  },
-  {
-    "pronounce": "れむ",
-    "word": "レム",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "autoReplace": false
-      }
-    ]
+  "hiragana": "あおい",
+  "katakana": "アオイ",
+  "name": "aoi",
+  "replace": {
+        "kannjimei": "双葉碧",
+        "othername": "アオイ (編入生)"
+  }
+},
+
+  {
+    "hiragana": "あかり",
+    "katakana": "アカリ",
+    "name": "akari",
+    "replace": {
+          "kannjimei": "風宮あかり",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "あきの",
+    "katakana": "アキノ",
+    "name": "akino",
+    "replace": {
+          "kannjimei": "藤堂秋乃",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "あやね",
+    "katakana": "アヤネ",
+    "name": "ayane",
+    "replace": {
+          "kannjimei": "北条綾音",
+          "othername": "アヤネ (クリスマス)"
+    }
+  },
+
+  {
+    "hiragana": "あゆみ",
+    "katakana": "アユミ",
+    "name": "ayumi",
+    "replace": {
+          "kannjimei": "石橋あゆみ",
+          "othername": "アユミ (ワンダー)"
+    }
+  },
+
+  {
+    "hiragana": "ありさ",
+    "katakana": "アリサ",
+    "name": "arisa",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "あん",
+    "katakana": "アン",
+    "name": "",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "あんな",
+    "katakana": "アンナ",
+    "name": "anna",
+    "replace": {
+          "kannjimei": "柊杏奈",
+          "othername": "アンナ (サマー)",
+          "othername1": "アンネローゼ・フォン・シュテッヒパルム"
+    }
+  },
+
+  {
+    "hiragana": "いお",
+    "katakana": "イオ",
+    "name": "io",
+    "replace": {
+          "kannjimei": "支倉伊緒",
+          "othername": "イオ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "いのり",
+    "katakana": "イノリ",
+    "name": "inori",
+    "replace": {
+          "kannjimei": "一ノ瀬祈梨",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "いりや",
+    "katakana": "イリヤ",
+    "name": "iriya",
+    "replace": {
+          "kannjimei": "イリヤ・オーンスタイン",
+          "othername": "イリヤ (クリスマス)"
+    }
+  },
+
+  {
+    "hiragana": "うづき",
+    "katakana": "ウヅキ (デレマス)",
+    "name": "uduki",
+    "replace": {
+          "kannjimei": "島村卯月",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "えみりあ",
+    "katakana": "エミリア",
+    "name": "emiria",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "えりこ",
+    "katakana": "エリコ",
+    "name": "eriko",
+    "replace": {
+          "kannjimei": "倉石恵理子",
+          "othername": "エリコ (バレンタイン)"
+    }
+  },
+
+  {
+    "hiragana": "かおり",
+    "katakana": "カオリ",
+    "name": "kaori",
+    "replace": {
+          "kannjimei": "喜屋武香織",
+          "othername": "カオリ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "かすみ",
+    "katakana": "カスミ",
+    "name": "kasumi",
+    "replace": {
+          "kannjimei": "霧原かすみ",
+          "othername": "カスミ (マジカル)"
+    }
+  },
+
+  {
+    "hiragana": "かや",
+    "katakana": "カヤ",
+    "name": "kaya",
+    "replace": {
+          "kannjimei": "鬼道嘉夜",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "きゃる",
+    "katakana": "キャル",
+    "name": "kyaru",
+    "replace": {
+          "kannjimei": "百地希留耶",
+          "othername": "キャル (サマー)",
+          "othername1": "キャル (ニューイヤー)"
+    }
+  },
+
+  {
+    "hiragana": "きょうか",
+    "katakana": "キョウカ",
+    "name": "kyouka",
+    "replace": {
+          "kannjimei": "氷川鏡華",
+          "othername": "キョウカ (ハロウィン)"
+    }
+  },
+
+  {
+    "hiragana": "くうか",
+    "katakana": "クウカ",
+    "name": "kuuka",
+    "replace": {
+          "kannjimei": "遠見空花",
+          "othername": "クウカ (オーエド)"
+    }
+  },
+
+  {
+    "hiragana": "くりすてぃーな",
+    "katakana": "クリスティーナ",
+    "name": "kurisutina",
+    "replace": {
+          "kannjimei": "クリスティーナ・モーガン",
+          "othername": "クリスティーナ (クリスマス)"
+    }
+  },
+
+  {
+    "hiragana": "くるみ",
+    "katakana": "クルミ",
+    "name": "kurumi",
+    "replace": {
+          "kannjimei": "栗林くるみ",
+          "othername": "クルミ (クリスマス)"
+    }
+  },
+
+  {
+    "hiragana": "くろえ",
+    "katakana": "クロエ",
+    "name": "kuroe",
+    "replace": {
+          "kannjimei": "黒江花子",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "こっころ",
+    "katakana": "コッコロ",
+    "name": "kokkoro",
+    "replace": {
+          "kannjimei": "棗こころ",
+          "othername": "コッコロ (サマー)",
+          "othername1": "コッコロ (ニューイヤー)",
+          "othername2": "コッコロ (プリンセス)"
+    }
+  },
+
+  {
+    "hiragana": "されん",
+    "katakana": "サレン",
+    "name": "saren",
+    "replace": {
+          "kannjimei": "佐々木咲恋",
+          "othername": "サレン (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "じーた",
+    "katakana": "ジータ",
+    "name": "jiita",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "しおり",
+    "katakana": "シオリ",
+    "name": "shiori",
+    "replace": {
+          "kannjimei": "柏崎栞",
+          "othername": "シオリ (マジカル)"
+    }
+  },
+
+  {
+    "hiragana": "しずる",
+    "katakana": "シズル",
+    "name": "shizuru",
+    "replace": {
+          "kannjimei": "星野静流",
+          "othername": "シズル (バレンタイン)"
+    }
+  },
+
+  {
+    "hiragana": "しのぶ",
+    "katakana": "シノブ",
+    "name": "shinobu",
+    "replace": {
+          "kannjimei": "上喜しのぶ",
+          "othername": "シノブ (ハロウィン)"
+    }
+  },
+
+  {
+    "hiragana": "じゅん",
+    "katakana": "ジュン",
+    "name": "junn",
+    "replace": {
+          "kannjimei": "白銀純",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "すずな",
+    "katakana": "スズナ",
+    "name": "suzuna",
+    "replace": {
+          "kannjimei": "美波鈴奈",
+          "othername": "スズナ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "すずめ",
+    "katakana": "スズメ",
+    "name": "suzume",
+    "replace": {
+          "kannjimei": "天野すずめ",
+          "othername": "スズメ (サマー)",
+          "othername1": "スズメ (ニューイヤー)"
+    }
+  },
+
+  {
+    "hiragana": "たまき",
+    "katakana": "タマキ",
+    "name": "tamaki",
+    "replace": {
+          "kannjimei": "宮坂たまき",
+          "othername": "",
+          "othername1": ""
+    }
+  },
+
+  {
+    "hiragana": "ちえる",
+    "katakana": "チエル",
+    "name": "chieru",
+    "replace": {
+          "kannjimei": "風間ちえる",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "ちか",
+    "katakana": "チカ",
+    "name": "chika",
+    "replace": {
+          "kannjimei": "三角千歌",
+          "othername": "チカ (クリスマス)"
+    }
+  },
+
+  {
+    "hiragana": "つむぎ",
+    "katakana": "ツムギ",
+    "name": "tsumugi",
+    "replace": {
+          "kannjimei": "繭宮つむぎ",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "とも",
+    "katakana": "トモ",
+    "name": "tomo",
+    "replace": {
+          "kannjimei": "御久間智",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "ななか",
+    "katakana": "ナナカ",
+    "name": "nanaka",
+    "replace": {
+          "kannjimei": "丹野七々香",
+          "othername": "ナナカ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "にのん",
+    "katakana": "ニノン",
+    "name": "ninon",
+    "replace": {
+          "kannjimei": "ニノン・ジュベール",
+          "othername": "ニノン (オーエド)"
+    }
+  },
+
+  {
+    "hiragana": "ねねか",
+    "katakana": "ネネカ",
+    "name": "neneka",
+    "replace": {
+          "kannjimei": "現士実似々花",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "のぞみ",
+    "katakana": "ノゾミ",
+    "name": "nozomi",
+    "replace": {
+          "kannjimei": "桜井望",
+          "othername": "ノゾミ (クリスマス)"
+    }
+  },
+
+  {
+    "hiragana": "はつね",
+    "katakana": "ハツネ",
+    "name": "hatsune",
+    "replace": {
+          "kannjimei": "柏崎初音",
+          "othername": "ハツネ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "ひより",
+    "katakana": "ヒヨリ",
+    "name": "hiyori",
+    "replace": {
+          "kannjimei": "春咲ひより",
+          "othername": "ヒヨリ (ニューイヤー)"
+    }
+  },
+
+  {
+    "hiragana": "ぺこりーぬ",
+    "katakana": "ペコリーヌ",
+    "name": "pekorinu",
+    "replace": {
+          "kannjimei": "ユースティアナ・フォン・アストライア",
+          "othername": "ペコリーヌ (サマー)",
+          "othername1": "ペコリーヌ (プリンセス)"
+    }
+  },
+
+  {
+    "hiragana": "まこと",
+    "katakana": "マコト",
+    "name": "makoto",
+    "replace": {
+          "kannjimei": "安芸真琴",
+          "othername": "マコト (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "まつり",
+    "katakana": "マツリ",
+    "name": "matsuri",
+    "replace": {
+          "kannjimei": "織原茉莉",
+          "othername": ""
+      }
+  },
+
+  {
+    "hiragana": "まひる",
+    "katakana": "マヒル",
+    "name": "mahiru",
+    "replace": {
+          "kannjimei": "野戸まひる",
+          "othername": "マヒル (レンジャー)"
+    }
+  },
+
+  {
+    "hiragana": "まほ",
+    "katakana": "マホ",
+    "name": "maho",
+    "replace": {
+          "kannjimei": "姫宮真歩",
+          "othername": "マホ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "みお",
+    "katakana": "ミオ (デレマス)",
+    "name": "mio",
+    "replace": {
+          "kannjimei": "本田未央",
+          "othername": ""
+      }
+  },
+
+  {
+    "hiragana": "みさき",
+    "katakana": "ミサキ",
+    "name": "misaki",
+    "replace": {
+          "kannjimei": "玉泉美咲",
+          "othername": "ミサキ (ハロウィン)"
+    }
+  },
+
+  {
+    "hiragana": "みさと",
+    "katakana": "ミサト",
+    "name": "misato",
+    "replace": {
+          "kannjimei": "愛川美里",
+          "othername": "ミサト (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "みそぎ",
+    "katakana": "ミソギ",
+    "name": "misogi",
+    "replace": {
+          "kannjimei": "穂高みそぎ",
+          "othername": "ミソギ (ハロウィン)"
+    }
+  },
+
+  {
+    "hiragana": "みつき",
+    "katakana": "ミツキ",
+    "name": "mitsuki",
+    "replace": {
+          "kannjimei": "宵ヶ浜深月",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "みふゆ",
+    "katakana": "ミフユ",
+    "name": "mifuyu",
+    "replace": {
+          "kannjimei": "大神美冬",
+          "othername": "ミフユ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "みみ",
+    "katakana": "ミミ",
+    "name": "mimi",
+    "replace": {
+          "kannjimei": "茜ミミ",
+          "othername": "ミミ (ハロウィン)"
+    }
+  },
+
+  {
+    "hiragana": "みやこ",
+    "katakana": "ミヤコ",
+    "name": "miyako",
+    "replace": {
+          "kannjimei": "出雲宮子",
+          "othername": "ミヤコ (ハロウィン)"
+    }
+  },
+
+  {
+    "hiragana": "むいみ",
+    "katakana": "ムイミ",
+    "name": "muimi",
+    "replace": {
+          "kannjimei": "園上矛依未",
+          "othername": "ノウェム"
+    }
+  },
+
+  {
+    "hiragana": "もにか",
+    "katakana": "モニカ",
+    "name": "monika",
+    "replace": {
+          "kannjimei": "モニカ・ヴァイスヴィント",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "ゆい",
+    "katakana": "ユイ",
+    "name": "yui",
+    "replace": {
+          "kannjimei": "草野優衣",
+          "othername": "ユイ (ニューイヤー)",
+          "othername1": "ユイ (プリンセス)"
+    }
+  },
+
+  {
+    "hiragana": "ゆかり",
+    "katakana": "ユカリ",
+    "name": "yukari",
+    "replace": {
+          "kannjimei": "綾瀬ゆかり",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "ゆき",
+    "katakana": "ユキ",
+    "name": "yuki",
+    "replace": {
+          "kannjimei": "虹村雪",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "ユニ",
+    "katakana": "ゆに",
+    "name": "yuni",
+    "replace": {
+          "kannjimei": "真行寺由仁",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "より",
+    "katakana": "ヨリ",
+    "name": "yori",
+    "replace": {
+          "kannjimei": "風宮より",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "らむ",
+    "katakana": "ラム",
+    "name": "ramu",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "りの",
+    "katakana": "リノ",
+    "name": "",
+    "replace": {
+          "kannjimei": "衣ノ咲璃乃",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "りま",
+    "katakana": "リマ",
+    "name": "rima",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "りん",
+    "katakana": "リン",
+    "name": "rin",
+    "replace": {
+          "kannjimei": "森近鈴",
+          "othername": "リン (レンジャー)"
+    }
+  },
+
+  {
+    "hiragana": "りん",
+    "katakana": "リン (デレマス)",
+    "name": "rin(deremasu)",
+    "replace": {
+          "kannjimei": "渋谷凛",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "るぅ",
+    "katakana": "ルゥ",
+    "name": "ruu",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "るか",
+    "katakana": "ルカ",
+    "name": "ruka",
+    "replace": {
+          "kannjimei": "大刀洗流夏",
+          "othername": "ルカ (サマー)"
+    }
+  },
+
+  {
+    "hiragana": "るな",
+    "katakana": "ルナ",
+    "name": "runa",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
+  },
+
+  {
+    "hiragana": "れい",
+    "katakana": "レイ",
+    "name": "rei",
+    "replace": {
+          "kannjimei": "士条怜",
+          "othername": "レイ (ニューイヤー)"
+    }
+  },
+
+  {
+    "hiragana": "れむ",
+    "katakana": "レム",
+    "name": "remu",
+    "replace": {
+          "kannjimei": "",
+          "othername": ""
+    }
   }
 ]
