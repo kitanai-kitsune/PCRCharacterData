@@ -1,18 +1,12 @@
 [
   {
-    "pronounce": "あおい",
-    "word": "アオイ",
-    "speech": "person",
-    "comments": [
-      {
-        "comment": "プリコネのキャラクター",
-        "auto": false,
-        "replace": [
+    "hiragana": "あおい",
+    "katakana": "アオイ",
+    "name": "aoi",
+    "replace": [
           "双葉碧",
           "アオイ (編入生)"
         ]
-      }
-    ]
   },
   {
     "pronounce": "あかり",
