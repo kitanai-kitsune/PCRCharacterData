@@ -35,7 +35,17 @@
     "name": "ayane",
     "replace": {
           "kannjimei": "北条綾音",
-          "othername": "アヤネ (クリスマス)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "あやね（クリスマス）",
+    "katakana": "アヤネ（クリスマス）",
+    "name": "ayane（christmas）",
+    "replace": {
+          "kannjimei": "北条綾音",
+          "othername": "なし"
     }
   },
 
@@ -45,7 +55,17 @@
     "name": "ayumi",
     "replace": {
           "kannjimei": "石橋あゆみ",
-          "othername": "アユミ (ワンダー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "あゆみ (ワンダー)",
+    "katakana": "アユミ (ワンダー)",
+    "name": "ayumi（wonder）",
+    "replace": {
+          "kannjimei": "石橋あゆみ",
+          "othername": "なし"
     }
   },
 
@@ -75,8 +95,17 @@
     "name": "anna",
     "replace": {
           "kannjimei": "柊杏奈",
-          "othername": "アンナ (サマー)",
-          "othername1": "アンネローゼ・フォン・シュテッヒパルム"
+          "othername": "アンネローゼ・フォン・シュテッヒパルム"
+    }
+  },
+
+  {
+    "hiragana": "あんな（サマー）",
+    "katakana": "アンナ (サマー)",
+    "name": "anna（summer）",
+    "replace": {
+          "kannjimei": "柊杏奈",
+          "othername": "アンネローゼ・フォン・シュテッヒパルム"
     }
   },
 
@@ -86,7 +115,17 @@
     "name": "io",
     "replace": {
           "kannjimei": "支倉伊緒",
-          "othername": "イオ (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "いお (サマー)",
+    "katakana": "イオ (サマー)",
+    "name": "io（summer）",
+    "replace": {
+          "kannjimei": "支倉伊緒",
+          "othername": "なし"
     }
   },
 
@@ -106,12 +145,22 @@
     "name": "iriya",
     "replace": {
           "kannjimei": "イリヤ・オーンスタイン",
-          "othername": "イリヤ (クリスマス)"
+          "othername": "なし"
     }
   },
 
   {
-    "hiragana": "うづき",
+    "hiragana": "いりや (クリスマス)",
+    "katakana": "イリヤ (クリスマス)",
+    "name": "iriya (christmas)",
+    "replace": {
+          "kannjimei": "イリヤ・オーンスタイン",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "うづき (デレマス)",
     "katakana": "ウヅキ (デレマス)",
     "name": "uduki",
     "replace": {
@@ -146,7 +195,17 @@
     "name": "kaori",
     "replace": {
           "kannjimei": "喜屋武香織",
-          "othername": "カオリ (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "かおり (サマー)",
+    "katakana": "カオリ (サマー)",
+    "name": "kaori (summer)",
+    "replace": {
+          "kannjimei": "喜屋武香織",
+          "othername": "なし"
     }
   },
 
@@ -156,7 +215,17 @@
     "name": "kasumi",
     "replace": {
           "kannjimei": "霧原かすみ",
-          "othername": "カスミ (マジカル)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "かすみ (マジカル)",
+    "katakana": "カスミ (マジカル)",
+    "name": "kasumi (magical)",
+    "replace": {
+          "kannjimei": "霧原かすみ",
+          "othername": "なし"
     }
   },
 
@@ -176,8 +245,27 @@
     "name": "kyaru",
     "replace": {
           "kannjimei": "百地希留耶",
-          "othername": "キャル (サマー)",
-          "othername1": "キャル (ニューイヤー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "きゃる (サマー)",
+    "katakana": "キャル (サマー)",
+    "name": "kyaru (summer)",
+    "replace": {
+          "kannjimei": "百地希留耶",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "きゃる (ニューイヤー)",
+    "katakana": "キャル (ニューイヤー)",
+    "name": "kyaru (new year)",
+    "replace": {
+          "kannjimei": "百地希留耶",
+          "othername": "なし"
     }
   },
 
@@ -187,7 +275,17 @@
     "name": "kyouka",
     "replace": {
           "kannjimei": "氷川鏡華",
-          "othername": "キョウカ (ハロウィン)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "きょうか (ハロウィン)",
+    "katakana": "キョウカ (ハロウィン)",
+    "name": "kyouka (halloween)",
+    "replace": {
+          "kannjimei": "氷川鏡華",
+          "othername": "なし"
     }
   },
 
@@ -197,7 +295,17 @@
     "name": "kuuka",
     "replace": {
           "kannjimei": "遠見空花",
-          "othername": "クウカ (オーエド)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "くうか (オーエド)",
+    "katakana": "クウカ (オーエド)",
+    "name": "kuuka (ooedo)",
+    "replace": {
+          "kannjimei": "遠見空花",
+          "othername": "なし"
     }
   },
 
@@ -212,12 +320,42 @@
   },
 
   {
+    "hiragana": "くりすてぃーな",
+    "katakana": "クリスティーナ",
+    "name": "kurisutina",
+    "replace": {
+          "kannjimei": "クリスティーナ・モーガン",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "くりすてぃーな (クリスマス)",
+    "katakana": "クリスティーナ (クリスマス)",
+    "name": "kurisutina (christmas)",
+    "replace": {
+          "kannjimei": "クリスティーナ・モーガン",
+          "othername": "なし"
+    }
+  },
+
+  {
     "hiragana": "くるみ",
     "katakana": "クルミ",
     "name": "kurumi",
     "replace": {
           "kannjimei": "栗林くるみ",
-          "othername": "クルミ (クリスマス)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "くるみ (クリスマス)",
+    "katakana": "クルミ (クリスマス)",
+    "name": "kurumi (christmas)",
+    "replace": {
+          "kannjimei": "栗林くるみ",
+          "othername": "なし"
     }
   },
 
@@ -237,9 +375,27 @@
     "name": "kokkoro",
     "replace": {
           "kannjimei": "棗こころ",
-          "othername": "コッコロ (サマー)",
-          "othername1": "コッコロ (ニューイヤー)",
-          "othername2": "コッコロ (プリンセス)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "こっころ (サマー)",
+    "katakana": "コッコロ (サマー)",
+    "name": "kokkoro (summer)",
+    "replace": {
+          "kannjimei": "棗こころ",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "こっころ (プリンセス)",
+    "katakana": "コッコロ (プリンセス)",
+    "name": "kokkoro (princess)",
+    "replace": {
+          "kannjimei": "棗こころ",
+          "othername": "コッコロ (プリンセス)"
     }
   },
 
@@ -249,7 +405,17 @@
     "name": "saren",
     "replace": {
           "kannjimei": "佐々木咲恋",
-          "othername": "サレン (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "されん (サマー)",
+    "katakana": "サレン (サマー)",
+    "name": "saren (summer)",
+    "replace": {
+          "kannjimei": "佐々木咲恋",
+          "othername": "なし"
     }
   },
 
@@ -269,7 +435,17 @@
     "name": "shiori",
     "replace": {
           "kannjimei": "柏崎栞",
-          "othername": "シオリ (マジカル)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "しおり (マジカル)",
+    "katakana": "シオリ (マジカル)",
+    "name": "shiori (magical)",
+    "replace": {
+          "kannjimei": "柏崎栞",
+          "othername": "なし"
     }
   },
 
@@ -279,7 +455,17 @@
     "name": "shizuru",
     "replace": {
           "kannjimei": "星野静流",
-          "othername": "シズル (バレンタイン)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "しずる (バレンタイン)",
+    "katakana": "シズル (バレンタイン)",
+    "name": "shizuru (valentine)",
+    "replace": {
+          "kannjimei": "星野静流",
+          "othername": "なし"
     }
   },
 
@@ -289,7 +475,17 @@
     "name": "shinobu",
     "replace": {
           "kannjimei": "上喜しのぶ",
-          "othername": "シノブ (ハロウィン)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "しのぶ (ハロウィン)",
+    "katakana": "シノブ (ハロウィン)",
+    "name": "shinobu (halloween)",
+    "replace": {
+          "kannjimei": "上喜しのぶ",
+          "othername": "なし"
     }
   },
 
@@ -309,7 +505,17 @@
     "name": "suzuna",
     "replace": {
           "kannjimei": "美波鈴奈",
-          "othername": "スズナ (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "すずな (サマー)",
+    "katakana": "スズナ (サマー)",
+    "name": "suzuna (summer)",
+    "replace": {
+          "kannjimei": "美波鈴奈",
+          "othername": "なし"
     }
   },
 
@@ -319,8 +525,27 @@
     "name": "suzume",
     "replace": {
           "kannjimei": "天野すずめ",
-          "othername": "スズメ (サマー)",
-          "othername1": "スズメ (ニューイヤー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "すずめ (サマー)",
+    "katakana": "スズメ (サマー)",
+    "name": "suzume (summer)",
+    "replace": {
+          "kannjimei": "天野すずめ",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "すずめ (ニューイヤー)",
+    "katakana": "スズメ (ニューイヤー)",
+    "name": "suzume (new year)",
+    "replace": {
+          "kannjimei": "天野すずめ",
+          "othername": "なし"
     }
   },
 
@@ -330,8 +555,17 @@
     "name": "tamaki",
     "replace": {
           "kannjimei": "宮坂たまき",
-          "othername": "なし",
-          "othername1": ""
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "たまき（サマー）",
+    "katakana": "タマキ（サマー）",
+    "name": "tamaki（summer）",
+    "replace": {
+          "kannjimei": "宮坂たまき",
+          "othername": "なし"
     }
   },
 
@@ -351,7 +585,17 @@
     "name": "chika",
     "replace": {
           "kannjimei": "三角千歌",
-          "othername": "チカ (クリスマス)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "ちか (クリスマス)",
+    "katakana": "チカ (クリスマス)",
+    "name": "chika (christmas)",
+    "replace": {
+          "kannjimei": "三角千歌",
+          "othername": "なし"
     }
   },
 
@@ -381,7 +625,17 @@
     "name": "nanaka",
     "replace": {
           "kannjimei": "丹野七々香",
-          "othername": "ナナカ (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "ななか (サマー)",
+    "katakana": "ナナカ (サマー)",
+    "name": "nanaka (summer)",
+    "replace": {
+          "kannjimei": "丹野七々香",
+          "othername": "なし"
     }
   },
 
@@ -391,7 +645,17 @@
     "name": "ninon",
     "replace": {
           "kannjimei": "ニノン・ジュベール",
-          "othername": "ニノン (オーエド)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "にのん (オーエド)",
+    "katakana": "ニノン (オーエド)",
+    "name": "ninon (ooedo)",
+    "replace": {
+          "kannjimei": "ニノン・ジュベール",
+          "othername": "なし"
     }
   },
 
@@ -411,7 +675,17 @@
     "name": "nozomi",
     "replace": {
           "kannjimei": "桜井望",
-          "othername": "ノゾミ (クリスマス)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "のぞみ (クリスマス)",
+    "katakana": "ノゾミ (クリスマス)",
+    "name": "nozomi (christmas)",
+    "replace": {
+          "kannjimei": "桜井望",
+          "othername": "なし"
     }
   },
 
@@ -421,7 +695,17 @@
     "name": "hatsune",
     "replace": {
           "kannjimei": "柏崎初音",
-          "othername": "ハツネ (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "はつね (サマー)",
+    "katakana": "ハツネ (サマー)",
+    "name": "hatsune (summer)",
+    "replace": {
+          "kannjimei": "柏崎初音",
+          "othername": "なし"
     }
   },
 
@@ -431,7 +715,17 @@
     "name": "hiyori",
     "replace": {
           "kannjimei": "春咲ひより",
-          "othername": "ヒヨリ (ニューイヤー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "ひより (ニューイヤー)",
+    "katakana": "ヒヨリ (ニューイヤー)",
+    "name": "hiyori (new year)",
+    "replace": {
+          "kannjimei": "春咲ひより",
+          "othername": "なし"
     }
   },
 
@@ -441,8 +735,27 @@
     "name": "pekorinu",
     "replace": {
           "kannjimei": "ユースティアナ・フォン・アストライア",
-          "othername": "ペコリーヌ (サマー)",
-          "othername1": "ペコリーヌ (プリンセス)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "ぺこりーぬ (サマー)",
+    "katakana": "ペコリーヌ (サマー)",
+    "name": "pekorinu (summer)",
+    "replace": {
+          "kannjimei": "ユースティアナ・フォン・アストライア",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "ぺこりーぬ (プリンセス)",
+    "katakana": "ペコリーヌ (プリンセス)",
+    "name": "pekorinu (princess)",
+    "replace": {
+          "kannjimei": "ユースティアナ・フォン・アストライア",
+          "othername": "なし"
     }
   },
 
@@ -452,7 +765,17 @@
     "name": "makoto",
     "replace": {
           "kannjimei": "安芸真琴",
-          "othername": "マコト (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "まこと (サマー)",
+    "katakana": "マコト (サマー)",
+    "name": "makoto (summer)",
+    "replace": {
+          "kannjimei": "安芸真琴",
+          "othername": "なし"
     }
   },
 
@@ -472,7 +795,17 @@
     "name": "mahiru",
     "replace": {
           "kannjimei": "野戸まひる",
-          "othername": "マヒル (レンジャー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "まひる (レンジャー)",
+    "katakana": "マヒル (レンジャー)",
+    "name": "mahiru (ranger)",
+    "replace": {
+          "kannjimei": "野戸まひる",
+          "othername": "なし"
     }
   },
 
@@ -482,12 +815,22 @@
     "name": "maho",
     "replace": {
           "kannjimei": "姫宮真歩",
-          "othername": "マホ (サマー)"
+          "othername": "なし"
     }
   },
 
   {
-    "hiragana": "みお",
+    "hiragana": "まほ (サマー)",
+    "katakana": "マホ (サマー)",
+    "name": "maho (summer)",
+    "replace": {
+          "kannjimei": "姫宮真歩",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "みお (デレマス)",
     "katakana": "ミオ (デレマス)",
     "name": "mio",
     "replace": {
@@ -502,7 +845,17 @@
     "name": "misaki",
     "replace": {
           "kannjimei": "玉泉美咲",
-          "othername": "ミサキ (ハロウィン)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "みさき (ハロウィン)",
+    "katakana": "ミサキ (ハロウィン)",
+    "name": "misaki (halloween)",
+    "replace": {
+          "kannjimei": "玉泉美咲",
+          "othername": "なし"
     }
   },
 
@@ -512,7 +865,17 @@
     "name": "misato",
     "replace": {
           "kannjimei": "愛川美里",
-          "othername": "ミサト (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "みさと (サマー)",
+    "katakana": "ミサト (サマー)",
+    "name": "misato (summer)",
+    "replace": {
+          "kannjimei": "愛川美里",
+          "othername": "なし"
     }
   },
 
@@ -522,7 +885,17 @@
     "name": "misogi",
     "replace": {
           "kannjimei": "穂高みそぎ",
-          "othername": "ミソギ (ハロウィン)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "みそぎ (ハロウィン)",
+    "katakana": "ミソギ (ハロウィン)",
+    "name": "misogi (halloween)",
+    "replace": {
+          "kannjimei": "穂高みそぎ",
+          "othername": "なし"
     }
   },
 
@@ -542,7 +915,17 @@
     "name": "mifuyu",
     "replace": {
           "kannjimei": "大神美冬",
-          "othername": "ミフユ (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "みふゆ (サマー)",
+    "katakana": "ミフユ (サマー)",
+    "name": "mifuyu (summer)",
+    "replace": {
+          "kannjimei": "大神美冬",
+          "othername": "なし"
     }
   },
 
@@ -552,7 +935,17 @@
     "name": "mimi",
     "replace": {
           "kannjimei": "茜ミミ",
-          "othername": "ミミ (ハロウィン)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "みみ (ハロウィン)",
+    "katakana": "ミミ (ハロウィン)",
+    "name": "mimi (halloween)",
+    "replace": {
+          "kannjimei": "茜ミミ",
+          "othername": "なし"
     }
   },
 
@@ -562,7 +955,17 @@
     "name": "miyako",
     "replace": {
           "kannjimei": "出雲宮子",
-          "othername": "ミヤコ (ハロウィン)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "みやこ (ハロウィン)",
+    "katakana": "ミヤコ (ハロウィン)",
+    "name": "miyako (halloween)",
+    "replace": {
+          "kannjimei": "出雲宮子",
+          "othername": "なし"
     }
   },
 
@@ -592,8 +995,27 @@
     "name": "yui",
     "replace": {
           "kannjimei": "草野優衣",
-          "othername": "ユイ (ニューイヤー)",
-          "othername1": "ユイ (プリンセス)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "ゆい (ニューイヤー)",
+    "katakana": "ユイ (ニューイヤー)",
+    "name": "yui (new year)",
+    "replace": {
+          "kannjimei": "草野優衣",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "ゆい (プリンセス)",
+    "katakana": "ユイ (プリンセス)",
+    "name": "yui (princess)",
+    "replace": {
+          "kannjimei": "草野優衣",
+          "othername": "なし"
     }
   },
 
@@ -658,6 +1080,16 @@
   },
 
   {
+    "hiragana": "りの（ワンダー）",
+    "katakana": "リノ（ワンダー）",
+    "name": "rino（wonder）",
+    "replace": {
+          "kannjimei": "衣ノ咲璃乃",
+          "othername": "なし"
+    }
+  },
+
+  {
     "hiragana": "りま",
     "katakana": "リマ",
     "name": "rima",
@@ -673,12 +1105,22 @@
     "name": "rin",
     "replace": {
           "kannjimei": "森近鈴",
-          "othername": "リン (レンジャー)"
+          "othername": "なし"
     }
   },
 
   {
-    "hiragana": "りん",
+    "hiragana": "りん (レンジャー)",
+    "katakana": "リン (レンジャー)",
+    "name": "rin (ranger)",
+    "replace": {
+          "kannjimei": "森近鈴",
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "りん (デレマス)",
     "katakana": "リン (デレマス)",
     "name": "rin(deremasu)",
     "replace": {
@@ -703,7 +1145,17 @@
     "name": "ruka",
     "replace": {
           "kannjimei": "大刀洗流夏",
-          "othername": "ルカ (サマー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "るか (サマー)",
+    "katakana": "ルカ (サマー)",
+    "name": "ruka (summer)",
+    "replace": {
+          "kannjimei": "大刀洗流夏",
+          "othername": "なし"
     }
   },
 
@@ -723,7 +1175,17 @@
     "name": "rei",
     "replace": {
           "kannjimei": "士条怜",
-          "othername": "レイ (ニューイヤー)"
+          "othername": "なし"
+    }
+  },
+
+  {
+    "hiragana": "れい (ニューイヤー)",
+    "katakana": "レイ (ニューイヤー)",
+    "name": "rei (new year)",
+    "replace": {
+          "kannjimei": "士条怜",
+          "othername": "なし"
     }
   },
 
