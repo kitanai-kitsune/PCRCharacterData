@@ -15,7 +15,7 @@
     "name": "akari",
     "replace": {
           "kannjimei": "風宮あかり",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -25,7 +25,7 @@
     "name": "akino",
     "replace": {
           "kannjimei": "藤堂秋乃",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -54,8 +54,8 @@
     "katakana": "アリサ",
     "name": "arisa",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -64,8 +64,8 @@
     "katakana": "アン",
     "name": "",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -96,7 +96,7 @@
     "name": "inori",
     "replace": {
           "kannjimei": "一ノ瀬祈梨",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -116,7 +116,7 @@
     "name": "uduki",
     "replace": {
           "kannjimei": "島村卯月",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -125,8 +125,8 @@
     "katakana": "エミリア",
     "name": "emiria",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -166,7 +166,7 @@
     "name": "kaya",
     "replace": {
           "kannjimei": "鬼道嘉夜",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -227,7 +227,7 @@
     "name": "kuroe",
     "replace": {
           "kannjimei": "黒江花子",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -258,8 +258,8 @@
     "katakana": "ジータ",
     "name": "jiita",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -299,7 +299,7 @@
     "name": "junn",
     "replace": {
           "kannjimei": "白銀純",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -330,7 +330,7 @@
     "name": "tamaki",
     "replace": {
           "kannjimei": "宮坂たまき",
-          "othername": "",
+          "othername": "なし",
           "othername1": ""
     }
   },
@@ -341,7 +341,7 @@
     "name": "chieru",
     "replace": {
           "kannjimei": "風間ちえる",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -361,7 +361,7 @@
     "name": "tsumugi",
     "replace": {
           "kannjimei": "繭宮つむぎ",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -371,7 +371,7 @@
     "name": "tomo",
     "replace": {
           "kannjimei": "御久間智",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -401,7 +401,7 @@
     "name": "neneka",
     "replace": {
           "kannjimei": "現士実似々花",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -462,7 +462,7 @@
     "name": "matsuri",
     "replace": {
           "kannjimei": "織原茉莉",
-          "othername": ""
+          "othername": "なし"
       }
   },
 
@@ -492,7 +492,7 @@
     "name": "mio",
     "replace": {
           "kannjimei": "本田未央",
-          "othername": ""
+          "othername": "なし"
       }
   },
 
@@ -532,7 +532,7 @@
     "name": "mitsuki",
     "replace": {
           "kannjimei": "宵ヶ浜深月",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -582,7 +582,7 @@
     "name": "monika",
     "replace": {
           "kannjimei": "モニカ・ヴァイスヴィント",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -603,7 +603,7 @@
     "name": "yukari",
     "replace": {
           "kannjimei": "綾瀬ゆかり",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -613,7 +613,7 @@
     "name": "yuki",
     "replace": {
           "kannjimei": "虹村雪",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -623,7 +623,7 @@
     "name": "yuni",
     "replace": {
           "kannjimei": "真行寺由仁",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -633,7 +633,7 @@
     "name": "yori",
     "replace": {
           "kannjimei": "風宮より",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -642,8 +642,8 @@
     "katakana": "ラム",
     "name": "ramu",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -653,7 +653,7 @@
     "name": "",
     "replace": {
           "kannjimei": "衣ノ咲璃乃",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -662,8 +662,8 @@
     "katakana": "リマ",
     "name": "rima",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -683,7 +683,7 @@
     "name": "rin(deremasu)",
     "replace": {
           "kannjimei": "渋谷凛",
-          "othername": ""
+          "othername": "なし"
     }
   },
 
@@ -692,8 +692,8 @@
     "katakana": "ルゥ",
     "name": "ruu",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -712,8 +712,8 @@
     "katakana": "ルナ",
     "name": "runa",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   },
 
@@ -732,9 +732,8 @@
     "katakana": "レム",
     "name": "remu",
     "replace": {
-          "kannjimei": "",
-          "othername": ""
+          "kannjimei": "なし",
+          "othername": "なし"
     }
   }
 ]
-
