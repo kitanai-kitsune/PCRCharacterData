@@ -4,7 +4,7 @@
   "katakana": "アオイ",
   "name": "aoi",
   "replace": {
-        "defaultstar":1,
+        "defaultstar":3,
         "kannjimei": "双葉碧",
         "othername": "アオイ (編入生)"
   }
