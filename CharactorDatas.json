@@ -4,6 +4,7 @@
   "katakana": "アオイ",
   "name": "aoi",
   "replace": {
+        "defaultstar":1,
         "kannjimei": "双葉碧",
         "othername": "アオイ (編入生)"
   }
@@ -14,6 +15,7 @@
     "katakana": "アカリ",
     "name": "akari",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "風宮あかり",
           "othername": "なし"
     }
@@ -24,6 +26,7 @@
     "katakana": "アキノ",
     "name": "akino",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "藤堂秋乃",
           "othername": "なし"
     }
@@ -34,6 +37,7 @@
     "katakana": "アヤネ",
     "name": "ayane",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "北条綾音",
           "othername": "なし"
     }
@@ -44,6 +48,7 @@
     "katakana": "アヤネ（クリスマス）",
     "name": "ayane（christmas）",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "北条綾音",
           "othername": "なし"
     }
@@ -54,6 +59,7 @@
     "katakana": "アユミ",
     "name": "ayumi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "石橋あゆみ",
           "othername": "なし"
     }
@@ -64,6 +70,7 @@
     "katakana": "アユミ (ワンダー)",
     "name": "ayumi（wonder）",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "石橋あゆみ",
           "othername": "なし"
     }
@@ -74,6 +81,7 @@
     "katakana": "アリサ",
     "name": "arisa",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -84,6 +92,7 @@
     "katakana": "アン",
     "name": "an",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -94,6 +103,7 @@
     "katakana": "アンナ",
     "name": "anna",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "柊杏奈",
           "othername": "アンネローゼ・フォン・シュテッヒパルム"
     }
@@ -104,6 +114,7 @@
     "katakana": "アンナ (サマー)",
     "name": "anna（summer）",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "柊杏奈",
           "othername": "アンネローゼ・フォン・シュテッヒパルム"
     }
@@ -114,6 +125,7 @@
     "katakana": "イオ",
     "name": "io",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "支倉伊緒",
           "othername": "なし"
     }
@@ -124,6 +136,7 @@
     "katakana": "イオ (サマー)",
     "name": "io（summer）",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "支倉伊緒",
           "othername": "なし"
     }
@@ -134,6 +147,7 @@
     "katakana": "イノリ",
     "name": "inori",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "一ノ瀬祈梨",
           "othername": "なし"
     }
@@ -144,6 +158,7 @@
     "katakana": "イリヤ",
     "name": "iriya",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "イリヤ・オーンスタイン",
           "othername": "なし"
     }
@@ -154,6 +169,7 @@
     "katakana": "イリヤ (クリスマス)",
     "name": "iriya (christmas)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "イリヤ・オーンスタイン",
           "othername": "なし"
     }
@@ -164,6 +180,7 @@
     "katakana": "ウヅキ (デレマス)",
     "name": "uduki",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "島村卯月",
           "othername": "なし"
     }
@@ -174,6 +191,7 @@
     "katakana": "エミリア",
     "name": "emiria",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -184,6 +202,7 @@
     "katakana": "エリコ",
     "name": "eriko",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "倉石恵理子",
           "othername": "エリコ (バレンタイン)"
     }
@@ -194,6 +213,7 @@
     "katakana": "カオリ",
     "name": "kaori",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "喜屋武香織",
           "othername": "なし"
     }
@@ -204,6 +224,7 @@
     "katakana": "カオリ (サマー)",
     "name": "kaori (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "喜屋武香織",
           "othername": "なし"
     }
@@ -214,6 +235,7 @@
     "katakana": "カスミ",
     "name": "kasumi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "霧原かすみ",
           "othername": "なし"
     }
@@ -224,6 +246,7 @@
     "katakana": "カスミ (マジカル)",
     "name": "kasumi (magical)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "霧原かすみ",
           "othername": "なし"
     }
@@ -234,6 +257,7 @@
     "katakana": "カヤ",
     "name": "kaya",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "鬼道嘉夜",
           "othername": "なし"
     }
@@ -244,6 +268,7 @@
     "katakana": "キャル",
     "name": "kyaru",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "百地希留耶",
           "othername": "なし"
     }
@@ -254,6 +279,7 @@
     "katakana": "キャル (サマー)",
     "name": "kyaru (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "百地希留耶",
           "othername": "なし"
     }
@@ -264,6 +290,7 @@
     "katakana": "キャル (ニューイヤー)",
     "name": "kyaru (new year)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "百地希留耶",
           "othername": "なし"
     }
@@ -274,6 +301,7 @@
     "katakana": "キョウカ",
     "name": "kyouka",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "氷川鏡華",
           "othername": "なし"
     }
@@ -284,6 +312,7 @@
     "katakana": "キョウカ (ハロウィン)",
     "name": "kyouka (halloween)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "氷川鏡華",
           "othername": "なし"
     }
@@ -293,7 +322,7 @@
     "hiragana": "くうか",
     "katakana": "クウカ",
     "name": "kuuka",
-    "replace": {
+    "replace": {"defaultstar":1,
           "kannjimei": "遠見空花",
           "othername": "なし"
     }
@@ -304,6 +333,7 @@
     "katakana": "クウカ (オーエド)",
     "name": "kuuka (ooedo)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "遠見空花",
           "othername": "なし"
     }
@@ -314,6 +344,7 @@
     "katakana": "クリスティーナ",
     "name": "kurisutina",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "クリスティーナ・モーガン",
           "othername": "クリスティーナ (クリスマス)"
     }
@@ -324,6 +355,7 @@
     "katakana": "クリスティーナ",
     "name": "kurisutina",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "クリスティーナ・モーガン",
           "othername": "なし"
     }
@@ -334,6 +366,7 @@
     "katakana": "クリスティーナ (クリスマス)",
     "name": "kurisutina (christmas)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "クリスティーナ・モーガン",
           "othername": "なし"
     }
@@ -344,6 +377,7 @@
     "katakana": "クルミ",
     "name": "kurumi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "栗林くるみ",
           "othername": "なし"
     }
@@ -354,6 +388,7 @@
     "katakana": "クルミ (クリスマス)",
     "name": "kurumi (christmas)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "栗林くるみ",
           "othername": "なし"
     }
@@ -364,6 +399,7 @@
     "katakana": "クロエ",
     "name": "kuroe",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "黒江花子",
           "othername": "なし"
     }
@@ -374,6 +410,7 @@
     "katakana": "コッコロ",
     "name": "kokkoro",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "棗こころ",
           "othername": "なし"
     }
@@ -384,6 +421,7 @@
     "katakana": "コッコロ (サマー)",
     "name": "kokkoro (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "棗こころ",
           "othername": "なし"
     }
@@ -394,6 +432,7 @@
     "katakana": "コッコロ (プリンセス)",
     "name": "kokkoro (princess)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "棗こころ",
           "othername": "コッコロ (プリンセス)"
     }
@@ -404,6 +443,7 @@
     "katakana": "サレン",
     "name": "saren",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "佐々木咲恋",
           "othername": "なし"
     }
@@ -414,6 +454,7 @@
     "katakana": "サレン (サマー)",
     "name": "saren (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "佐々木咲恋",
           "othername": "なし"
     }
@@ -424,6 +465,7 @@
     "katakana": "ジータ",
     "name": "jiita",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -434,6 +476,7 @@
     "katakana": "シオリ",
     "name": "shiori",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "柏崎栞",
           "othername": "なし"
     }
@@ -444,6 +487,7 @@
     "katakana": "シオリ (マジカル)",
     "name": "shiori (magical)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "柏崎栞",
           "othername": "なし"
     }
@@ -454,6 +498,7 @@
     "katakana": "シズル",
     "name": "shizuru",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "星野静流",
           "othername": "なし"
     }
@@ -464,6 +509,7 @@
     "katakana": "シズル (バレンタイン)",
     "name": "shizuru (valentine)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "星野静流",
           "othername": "なし"
     }
@@ -474,6 +520,7 @@
     "katakana": "シノブ",
     "name": "shinobu",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "上喜しのぶ",
           "othername": "なし"
     }
@@ -484,6 +531,7 @@
     "katakana": "シノブ (ハロウィン)",
     "name": "shinobu (halloween)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "上喜しのぶ",
           "othername": "なし"
     }
@@ -494,6 +542,7 @@
     "katakana": "ジュン",
     "name": "junn",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "白銀純",
           "othername": "なし"
     }
@@ -504,6 +553,7 @@
     "katakana": "スズナ",
     "name": "suzuna",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "美波鈴奈",
           "othername": "なし"
     }
@@ -514,6 +564,7 @@
     "katakana": "スズナ (サマー)",
     "name": "suzuna (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "美波鈴奈",
           "othername": "なし"
     }
@@ -524,6 +575,7 @@
     "katakana": "スズメ",
     "name": "suzume",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "天野すずめ",
           "othername": "なし"
     }
@@ -534,6 +586,7 @@
     "katakana": "スズメ (サマー)",
     "name": "suzume (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "天野すずめ",
           "othername": "なし"
     }
@@ -544,6 +597,7 @@
     "katakana": "スズメ (ニューイヤー)",
     "name": "suzume (new year)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "天野すずめ",
           "othername": "なし"
     }
@@ -554,6 +608,7 @@
     "katakana": "タマキ",
     "name": "tamaki",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "宮坂たまき",
           "othername": "なし"
     }
@@ -564,6 +619,7 @@
     "katakana": "タマキ（サマー）",
     "name": "tamaki（summer）",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "宮坂たまき",
           "othername": "なし"
     }
@@ -574,6 +630,7 @@
     "katakana": "チエル",
     "name": "chieru",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "風間ちえる",
           "othername": "なし"
     }
@@ -584,6 +641,7 @@
     "katakana": "チカ",
     "name": "chika",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "三角千歌",
           "othername": "なし"
     }
@@ -594,6 +652,7 @@
     "katakana": "チカ (クリスマス)",
     "name": "chika (christmas)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "三角千歌",
           "othername": "なし"
     }
@@ -604,6 +663,7 @@
     "katakana": "ツムギ",
     "name": "tsumugi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "繭宮つむぎ",
           "othername": "なし"
     }
@@ -614,6 +674,7 @@
     "katakana": "トモ",
     "name": "tomo",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "御久間智",
           "othername": "なし"
     }
@@ -624,6 +685,7 @@
     "katakana": "ナナカ",
     "name": "nanaka",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "丹野七々香",
           "othername": "なし"
     }
@@ -634,6 +696,7 @@
     "katakana": "ナナカ (サマー)",
     "name": "nanaka (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "丹野七々香",
           "othername": "なし"
     }
@@ -644,6 +707,7 @@
     "katakana": "ニノン",
     "name": "ninon",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "ニノン・ジュベール",
           "othername": "なし"
     }
@@ -654,6 +718,7 @@
     "katakana": "ニノン (オーエド)",
     "name": "ninon (ooedo)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "ニノン・ジュベール",
           "othername": "なし"
     }
@@ -664,6 +729,7 @@
     "katakana": "ネネカ",
     "name": "neneka",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "現士実似々花",
           "othername": "なし"
     }
@@ -674,6 +740,7 @@
     "katakana": "ノゾミ",
     "name": "nozomi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "桜井望",
           "othername": "なし"
     }
@@ -684,6 +751,7 @@
     "katakana": "ノゾミ (クリスマス)",
     "name": "nozomi (christmas)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "桜井望",
           "othername": "なし"
     }
@@ -694,6 +762,7 @@
     "katakana": "ハツネ",
     "name": "hatsune",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "柏崎初音",
           "othername": "なし"
     }
@@ -704,6 +773,7 @@
     "katakana": "ハツネ (サマー)",
     "name": "hatsune (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "柏崎初音",
           "othername": "なし"
     }
@@ -714,6 +784,7 @@
     "katakana": "ヒヨリ",
     "name": "hiyori",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "春咲ひより",
           "othername": "なし"
     }
@@ -724,6 +795,7 @@
     "katakana": "ヒヨリ (ニューイヤー)",
     "name": "hiyori (new year)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "春咲ひより",
           "othername": "なし"
     }
@@ -734,6 +806,7 @@
     "katakana": "ペコリーヌ",
     "name": "pekorinu",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "ユースティアナ・フォン・アストライア",
           "othername": "なし"
     }
@@ -744,6 +817,7 @@
     "katakana": "ペコリーヌ (サマー)",
     "name": "pekorinu (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "ユースティアナ・フォン・アストライア",
           "othername": "なし"
     }
@@ -754,6 +828,7 @@
     "katakana": "ペコリーヌ (プリンセス)",
     "name": "pekorinu (princess)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "ユースティアナ・フォン・アストライア",
           "othername": "なし"
     }
@@ -764,6 +839,7 @@
     "katakana": "マコト",
     "name": "makoto",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "安芸真琴",
           "othername": "なし"
     }
@@ -774,6 +850,7 @@
     "katakana": "マコト (サマー)",
     "name": "makoto (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "安芸真琴",
           "othername": "なし"
     }
@@ -784,6 +861,7 @@
     "katakana": "マツリ",
     "name": "matsuri",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "織原茉莉",
           "othername": "なし"
       }
@@ -794,6 +872,7 @@
     "katakana": "マヒル",
     "name": "mahiru",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "野戸まひる",
           "othername": "なし"
     }
@@ -804,6 +883,7 @@
     "katakana": "マヒル (レンジャー)",
     "name": "mahiru (ranger)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "野戸まひる",
           "othername": "なし"
     }
@@ -814,6 +894,7 @@
     "katakana": "マホ",
     "name": "maho",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "姫宮真歩",
           "othername": "なし"
     }
@@ -824,6 +905,7 @@
     "katakana": "マホ (サマー)",
     "name": "maho (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "姫宮真歩",
           "othername": "なし"
     }
@@ -834,6 +916,7 @@
     "katakana": "ミオ (デレマス)",
     "name": "mio",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "本田未央",
           "othername": "なし"
       }
@@ -844,6 +927,7 @@
     "katakana": "ミサキ",
     "name": "misaki",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "玉泉美咲",
           "othername": "なし"
     }
@@ -854,6 +938,7 @@
     "katakana": "ミサキ (ハロウィン)",
     "name": "misaki (halloween)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "玉泉美咲",
           "othername": "なし"
     }
@@ -864,6 +949,7 @@
     "katakana": "ミサト",
     "name": "misato",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "愛川美里",
           "othername": "なし"
     }
@@ -874,6 +960,7 @@
     "katakana": "ミサト (サマー)",
     "name": "misato (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "愛川美里",
           "othername": "なし"
     }
@@ -884,6 +971,7 @@
     "katakana": "ミソギ",
     "name": "misogi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "穂高みそぎ",
           "othername": "なし"
     }
@@ -894,6 +982,7 @@
     "katakana": "ミソギ (ハロウィン)",
     "name": "misogi (halloween)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "穂高みそぎ",
           "othername": "なし"
     }
@@ -904,6 +993,7 @@
     "katakana": "ミツキ",
     "name": "mitsuki",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "宵ヶ浜深月",
           "othername": "なし"
     }
@@ -914,6 +1004,7 @@
     "katakana": "ミフユ",
     "name": "mifuyu",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "大神美冬",
           "othername": "なし"
     }
@@ -924,6 +1015,7 @@
     "katakana": "ミフユ (サマー)",
     "name": "mifuyu (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "大神美冬",
           "othername": "なし"
     }
@@ -934,6 +1026,7 @@
     "katakana": "ミミ",
     "name": "mimi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "茜ミミ",
           "othername": "なし"
     }
@@ -944,6 +1037,7 @@
     "katakana": "ミミ (ハロウィン)",
     "name": "mimi (halloween)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "茜ミミ",
           "othername": "なし"
     }
@@ -954,6 +1048,7 @@
     "katakana": "ミヤコ",
     "name": "miyako",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "出雲宮子",
           "othername": "なし"
     }
@@ -964,6 +1059,7 @@
     "katakana": "ミヤコ (ハロウィン)",
     "name": "miyako (halloween)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "出雲宮子",
           "othername": "なし"
     }
@@ -974,6 +1070,7 @@
     "katakana": "ムイミ",
     "name": "muimi",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "園上矛依未",
           "othername": "ノウェム"
     }
@@ -984,6 +1081,7 @@
     "katakana": "モニカ",
     "name": "monika",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "モニカ・ヴァイスヴィント",
           "othername": "なし"
     }
@@ -994,6 +1092,7 @@
     "katakana": "ユイ",
     "name": "yui",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "草野優衣",
           "othername": "なし"
     }
@@ -1004,6 +1103,7 @@
     "katakana": "ユイ (ニューイヤー)",
     "name": "yui (new year)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "草野優衣",
           "othername": "なし"
     }
@@ -1014,6 +1114,7 @@
     "katakana": "ユイ (プリンセス)",
     "name": "yui (princess)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "草野優衣",
           "othername": "なし"
     }
@@ -1024,6 +1125,7 @@
     "katakana": "ユカリ",
     "name": "yukari",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "綾瀬ゆかり",
           "othername": "なし"
     }
@@ -1034,6 +1136,7 @@
     "katakana": "ユキ",
     "name": "yuki",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "虹村雪",
           "othername": "なし"
     }
@@ -1044,6 +1147,7 @@
     "katakana": "ゆに",
     "name": "yuni",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "真行寺由仁",
           "othername": "なし"
     }
@@ -1054,6 +1158,7 @@
     "katakana": "ヨリ",
     "name": "yori",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "風宮より",
           "othername": "なし"
     }
@@ -1064,6 +1169,7 @@
     "katakana": "ラム",
     "name": "ramu",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -1074,6 +1180,7 @@
     "katakana": "リノ",
     "name": "rino",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "衣ノ咲璃乃",
           "othername": "なし"
     }
@@ -1084,6 +1191,7 @@
     "katakana": "リノ（ワンダー）",
     "name": "rino（wonder）",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "衣ノ咲璃乃",
           "othername": "なし"
     }
@@ -1094,6 +1202,7 @@
     "katakana": "リマ",
     "name": "rima",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -1104,6 +1213,7 @@
     "katakana": "リン",
     "name": "rin",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "森近鈴",
           "othername": "なし"
     }
@@ -1114,6 +1224,7 @@
     "katakana": "リン (レンジャー)",
     "name": "rin (ranger)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "森近鈴",
           "othername": "なし"
     }
@@ -1124,6 +1235,7 @@
     "katakana": "リン (デレマス)",
     "name": "rin(deremasu)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "渋谷凛",
           "othername": "なし"
     }
@@ -1134,6 +1246,7 @@
     "katakana": "ルゥ",
     "name": "ruu",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -1144,6 +1257,7 @@
     "katakana": "ルカ",
     "name": "ruka",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "大刀洗流夏",
           "othername": "なし"
     }
@@ -1154,6 +1268,7 @@
     "katakana": "ルカ (サマー)",
     "name": "ruka (summer)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "大刀洗流夏",
           "othername": "なし"
     }
@@ -1164,6 +1279,7 @@
     "katakana": "ルナ",
     "name": "runa",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
@@ -1174,6 +1290,7 @@
     "katakana": "レイ",
     "name": "rei",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "士条怜",
           "othername": "なし"
     }
@@ -1184,6 +1301,7 @@
     "katakana": "レイ (ニューイヤー)",
     "name": "rei (new year)",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "士条怜",
           "othername": "なし"
     }
@@ -1194,6 +1312,7 @@
     "katakana": "レム",
     "name": "remu",
     "replace": {
+          "defaultstar":1,
           "kannjimei": "なし",
           "othername": "なし"
     }
