@@ -6,7 +6,8 @@
   "replace": {
         "defaultstar":1,
         "kannjimei": "双葉碧",
-        "othername": "なし"
+        "othername": "なし",
+        "havesixstar": true
     }
   },
 
@@ -17,7 +18,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "双葉碧",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -28,7 +30,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "風宮あかり",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -39,7 +42,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "藤堂秋乃",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -50,7 +54,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "北条綾音",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -61,7 +66,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "北条綾音",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -72,7 +78,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "石橋あゆみ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -83,7 +90,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "石橋あゆみ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -94,7 +102,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -105,7 +114,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -116,7 +126,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "柊杏奈",
-          "othername": "アンネローゼ・フォン・シュテッヒパルム"
+          "othername": "アンネローゼ・フォン・シュテッヒパルム",
+          "havesixstar": true
     }
   },
 
@@ -127,7 +138,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "柊杏奈",
-          "othername": "アンネローゼ・フォン・シュテッヒパルム"
+          "othername": "アンネローゼ・フォン・シュテッヒパルム",
+          "havesixstar": true
     }
   },
 
@@ -138,7 +150,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "支倉伊緒",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -149,7 +162,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "支倉伊緒",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -160,7 +174,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "一ノ瀬祈梨",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -171,7 +186,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "イリヤ・オーンスタイン",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -182,7 +198,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "イリヤ・オーンスタイン",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -193,7 +210,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "島村卯月",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -204,7 +222,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -215,7 +234,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "倉石恵理子",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -226,7 +246,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "倉石恵理子",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -237,7 +258,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "喜屋武香織",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -248,7 +270,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "喜屋武香織",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -259,7 +282,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "霧原かすみ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -270,7 +294,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "霧原かすみ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -281,7 +306,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "鬼道嘉夜",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -292,7 +318,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "百地希留耶",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -303,7 +330,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "百地希留耶",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -314,7 +342,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "百地希留耶",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -325,7 +354,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "氷川鏡華",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -336,7 +366,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "氷川鏡華",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -347,7 +378,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "遠見空花",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -358,7 +390,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "遠見空花",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -369,7 +402,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "クリスティーナ・モーガン",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -380,7 +414,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "クリスティーナ・モーガン",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -391,7 +426,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "栗林くるみ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -402,7 +438,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "栗林くるみ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -413,7 +450,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "黒江花子",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -424,7 +462,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -435,7 +474,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "棗こころ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -446,7 +486,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "棗こころ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -457,7 +498,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "棗こころ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -468,7 +510,8 @@
       "replace": {
             "defaultstar":3,
             "kannjimei": "棗こころ",
-            "othername": "なし"
+            "othername": "なし",
+            "havesixstar": true
       }
     },
 
@@ -479,7 +522,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "佐々木咲恋",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -490,7 +534,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "佐々木咲恋",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -501,7 +546,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "柏崎栞",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -512,7 +558,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "柏崎栞",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -523,7 +570,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "星野静流",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -534,7 +582,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "星野静流",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -545,7 +594,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "上喜しのぶ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -556,7 +606,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "上喜しのぶ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -567,7 +618,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "白銀純",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -578,7 +630,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "白銀純",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -589,7 +642,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -600,7 +654,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "美波鈴奈",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -611,7 +666,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "美波鈴奈",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -622,7 +678,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "天野すずめ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -633,7 +690,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "天野すずめ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -644,7 +702,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "天野すずめ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -655,7 +714,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "宮坂たまき",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -666,7 +726,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "宮坂たまき",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -677,7 +738,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "風間ちえる",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -688,7 +750,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "三角千歌",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -699,7 +762,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "三角千歌",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -710,7 +774,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "繭宮つむぎ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -721,7 +786,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "御久間智",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -732,7 +798,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "丹野七々香",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -743,7 +810,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "丹野七々香",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -754,7 +822,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "ニノン・ジュベール",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -765,7 +834,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "ニノン・ジュベール",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -776,7 +846,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "現士実似々花",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -787,7 +858,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "桜井望",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -798,7 +870,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "桜井望",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -809,7 +882,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "柏崎初音",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -820,7 +894,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "柏崎初音",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -831,7 +906,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "春咲ひより",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -842,7 +918,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "春咲ひより",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -853,7 +930,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "ユースティアナ・フォン・アストライア",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -864,7 +942,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "ユースティアナ・フォン・アストライア",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -875,7 +954,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "ユースティアナ・フォン・アストライア",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -886,7 +966,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "安芸真琴",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -897,7 +978,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "安芸真琴",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -908,7 +990,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "織原茉莉",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
       }
   },
 
@@ -919,7 +1002,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "野戸まひる",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -930,7 +1014,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "野戸まひる",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -941,7 +1026,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "姫宮真歩",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -952,7 +1038,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "姫宮真歩",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -963,7 +1050,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "本田未央",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
       }
   },
 
@@ -974,7 +1062,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "玉泉美咲",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -985,7 +1074,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "玉泉美咲",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -996,7 +1086,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "愛川美里",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1007,7 +1098,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "愛川美里",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1018,7 +1110,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "穂高みそぎ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1029,7 +1122,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "穂高みそぎ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1040,7 +1134,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "宵ヶ浜深月",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1051,7 +1146,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "大神美冬",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1062,7 +1158,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "大神美冬",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1073,7 +1170,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "茜ミミ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1084,7 +1182,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "茜ミミ",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1095,7 +1194,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "出雲宮子",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1106,7 +1206,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "出雲宮子",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1117,7 +1218,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "園上矛依未",
-          "othername": "ノウェム"
+          "othername": "ノウェム",
+          "havesixstar": true
     }
   },
 
@@ -1128,7 +1230,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "モニカ・ヴァイスヴィント",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1139,7 +1242,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "草野優衣",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1150,7 +1254,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "草野優衣",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1161,7 +1266,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "草野優衣",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1172,7 +1278,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "綾瀬ゆかり",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1183,7 +1290,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "虹村雪",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1194,7 +1302,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "真行寺由仁",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1205,7 +1314,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "風宮より",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1216,7 +1326,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1227,7 +1338,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "衣ノ咲璃乃",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1238,7 +1350,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "衣ノ咲璃乃",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1249,7 +1362,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1260,7 +1374,8 @@
     "replace": {
           "defaultstar":2,
           "kannjimei": "森近鈴",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1271,7 +1386,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "森近鈴",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1282,7 +1398,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "渋谷凛",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1293,7 +1410,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1304,7 +1422,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "大刀洗流夏",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1315,7 +1434,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "大刀洗流夏",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1326,7 +1446,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1337,7 +1458,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "士条怜",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1348,7 +1470,8 @@
     "replace": {
           "defaultstar":1,
           "kannjimei": "士条怜",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   },
 
@@ -1359,7 +1482,8 @@
     "replace": {
           "defaultstar":3,
           "kannjimei": "なし",
-          "othername": "なし"
+          "othername": "なし",
+          "havesixstar": true
     }
   }
 ]
