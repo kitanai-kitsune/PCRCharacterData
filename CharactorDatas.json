@@ -572,6 +572,17 @@
   },
 
   {
+    "hiragana": "じゅん(サマー)",
+    "katakana": "ジュン(サマー)",
+    "name": "junn(summer)",
+    "replace": {
+          "defaultstar":3,
+          "kannjimei": "白銀純",
+          "othername": "なし"
+    }
+  },
+
+  {
     "hiragana": "じーた",
     "katakana": "ジータ",
     "name": "jiita",
