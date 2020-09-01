@@ -1320,6 +1320,18 @@
   },
 
   {
+    "hiragana": "らびりすた",
+    "katakana": "ラビリスタ",
+    "name": "rabirisuta",
+    "replace": {
+          "defaultstar":3,
+          "kannjimei": "なし",
+          "othername": "なし",
+          "havesixstar": false
+    }
+  },
+
+  {
     "hiragana": "らむ",
     "katakana": "ラム",
     "name": "ramu",
