@@ -36,6 +36,18 @@
   },
 
   {
+    "hiragana": "あかり(エンジェル)",
+    "katakana": "アカリ(エンジェル)",
+    "name": "akari(angel)",
+    "replace": {
+          "defaultstar":3,
+          "kannjimei": "風宮あかり",
+          "othername": "なし",
+          "havesixstar": false
+    }
+  },
+
+  {
     "hiragana": "あきの",
     "katakana": "アキノ",
     "name": "akino",
