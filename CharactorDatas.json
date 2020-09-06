@@ -350,7 +350,7 @@
   {
     "hiragana": "きゃる(ニューイヤー)",
     "katakana": "キャル(ニューイヤー)",
-    "name": "kyaru(new year)",
+    "name": "kyaru(newyear)",
     "replace": {
           "defaultstar":3,
           "kannjimei": "百地希留耶",
@@ -518,7 +518,7 @@
   {
       "hiragana": "こっころ(ニューイヤー)",
       "katakana": "コッコロ(ニューイヤー)",
-      "name": "kokkoro(new year)",
+      "name": "kokkoro(newyear)",
       "replace": {
             "defaultstar":3,
             "kannjimei": "棗こころ",
@@ -710,7 +710,7 @@
   {
     "hiragana": "すずめ(ニューイヤー)",
     "katakana": "スズメ(ニューイヤー)",
-    "name": "suzume(new year)",
+    "name": "suzume(newyear)",
     "replace": {
           "defaultstar":1,
           "kannjimei": "天野すずめ",
@@ -926,7 +926,7 @@
   {
     "hiragana": "ひより(ニューイヤー)",
     "katakana": "ヒヨリ(ニューイヤー)",
-    "name": "hiyori(new year)",
+    "name": "hiyori(newyear)",
     "replace": {
           "defaultstar":3,
           "kannjimei": "春咲ひより",
@@ -1262,7 +1262,7 @@
   {
     "hiragana": "ゆい(ニューイヤー)",
     "katakana": "ユイ(ニューイヤー)",
-    "name": "yui(new year)",
+    "name": "yui(newyear)",
     "replace": {
           "defaultstar":3,
           "kannjimei": "草野優衣",
@@ -1490,7 +1490,7 @@
   {
     "hiragana": "れい(ニューイヤー)",
     "katakana": "レイ(ニューイヤー)",
-    "name": "rei(new year)",
+    "name": "rei(newyear)",
     "replace": {
           "defaultstar":1,
           "kannjimei": "士条怜",
