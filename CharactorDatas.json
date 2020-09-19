@@ -1332,6 +1332,18 @@
   },
 
   {
+    "hiragana": "より(エンジェル)",
+    "katakana": "ヨリ(エンジェル)",
+    "name": "yori(angel)",
+    "replace": {
+          "defaultstar":3,
+          "kannjimei": "風宮より",
+          "othername": "なし",
+          "havesixstar": false
+    }
+  },
+
+  {
     "hiragana": "らびりすた",
     "katakana": "ラビリスタ",
     "name": "rabirisuta",
