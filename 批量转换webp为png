@@ -1,2 +1,2 @@
-find /Users/chiaki/Desktop/大图webp -exec dwebp {} -o {}.png \;
+find /Users/chiaki/Desktop/webp -exec dwebp {} -o {}.png \;
 批量转换webp为png
