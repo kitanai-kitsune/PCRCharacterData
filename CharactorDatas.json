@@ -1536,6 +1536,18 @@
   },
 
   {
+    "hiragana": "れい(ハロウィン)",
+    "katakana": "レイ(ハロウィン)",
+    "name": "rei(halloween)",
+    "replace": {
+          "defaultstar":3,
+          "kannjimei": "士条怜",
+          "othername": "なし",
+          "havesixstar": false
+    }
+  },
+
+  {
     "hiragana": "れむ",
     "katakana": "レム",
     "name": "remu",
