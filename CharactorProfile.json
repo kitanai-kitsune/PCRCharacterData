@@ -1802,6 +1802,23 @@
     "weight": "33"
   },
   {
+    "age": "18",
+    "birth_day": "28",
+    "birth_month": "7",
+    "blood_type": "A",
+    "catch_copy": "見た目も中身もお子ちゃまな異国の軍人",
+    "favorite": "お菓子屋通い",
+    "guild": "ヴァイスフリューゲル　ランドソル支部",
+    "guild_id": "15",
+    "height": "140",
+    "race": "ヒューマン",
+    "self_text": "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！",
+    "unit_name": "モニカ（マジカル）",
+    "voice": "辻あゆみ",
+    "voice_id": 0,
+    "weight": "33"
+  },
+  {
     "age": "17",
     "birth_day": "5",
     "birth_month": "4",

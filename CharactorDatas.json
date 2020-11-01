@@ -1272,6 +1272,18 @@
   },
 
   {
+    "hiragana": "もにか(マジカル)",
+    "katakana": "モニカ(マジカル)",
+    "name": "monika(magical)",
+    "replace": {
+          "defaultstar":3,
+          "kannjimei": "モニカ・ヴァイスヴィント",
+          "othername": "なし",
+          "havesixstar": false
+    }
+  },
+
+  {
     "hiragana": "ゆい",
     "katakana": "ユイ",
     "name": "yui",
